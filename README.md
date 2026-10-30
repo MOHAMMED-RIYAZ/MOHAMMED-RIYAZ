@@ -1,11 +1,11 @@
 # Hi, I'm Mohammed Riyaz 👋
 
-### Software Engineer | Java Backend & Full-Stack Developer
+### Software Engineer | Full-Stack Developer | Java, Spring Boot, Node.js, React, C# and ASP.NET Core
 
-I build backend services and full-stack applications with a focus on **Java, Spring Boot, REST APIs, databases, and modern web technologies**. I enjoy designing reliable APIs, implementing authentication, and turning ideas into practical applications.
+I build backend services and full-stack applications across **Java/Spring Boot, JavaScript/Node.js, and C#/.NET**, with frontend experience in **React and TypeScript**. I enjoy designing reliable REST APIs, implementing secure authentication, working with databases, and turning ideas into practical applications.
 
 - 💼 Software Engineer at **TCS**
-- 🌱 Focus areas: **Java, Spring Boot, backend engineering, and full-stack development**
+- 🌱 Focus areas: **Backend engineering, full-stack development, REST APIs, databases, and cloud technologies**
 - ☁️ **AWS Certified Developer – Associate**
 - 📍 Bengaluru, India
 - 🌐 Portfolio: [riyaz-portfolio-eight.vercel.app](https://riyaz-portfolio-eight.vercel.app)
@@ -48,9 +48,9 @@ AWS · Docker · Git · GitHub Actions · Postman · Bruno · Swagger · JUnit �
 
 ## What I'm Working On
 
-- Strengthening my Java and Spring Boot backend engineering skills.
-- Building full-stack applications with React and RESTful services.
-- Improving my knowledge of system design, SQL performance, testing, and cloud deployment.
+- Building backend services with **Java/Spring Boot, Node.js/Express, and ASP.NET Core**.
+- Developing full-stack applications with **React, JavaScript, and TypeScript**.
+- Improving my knowledge of system design, SQL performance, automated testing, and cloud deployment.
 
 ## Connect With Me
 
